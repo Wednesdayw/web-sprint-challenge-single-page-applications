@@ -16,10 +16,10 @@ const initialFormValues = {
   size: "small",
   specialInstructions: "",
   toppings: {
-    chicken: false,
-    bacon: false,
+    pineapple: false,
+    mushrooms: false,
     spinach: false,
-    pepperoni: false,
+    onions: false,
   },
 };
 

@@ -31,7 +31,7 @@ export default function Navbar() {
       <LogoTitle>🐱Pizza Cat🐱</LogoTitle>
       <LinkContainer>
         <StyledLink to="/home">Home</StyledLink>
-        <StyledLink to="/pizza">Pizza</StyledLink>
+        <StyledLink to="/pizza">Order</StyledLink>
       </LinkContainer>
     </NavbarContainer>
   );

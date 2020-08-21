@@ -18,7 +18,7 @@ const HomeText = styled.div`
 export default function Home(props) {
   return (
     <HomeText>
-      <h2>Lambda Eats</h2>
+      <h2>Meow Eats</h2>
     </HomeText>
   );
 }
